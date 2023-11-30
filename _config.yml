@@ -110,15 +110,15 @@ author:
   location         : "Tokyo"
   email            : "i@xzc-meina.top"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:i@xzc-meina.top"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-       url: "https://www.xzc-meina.top"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/MoriMeina"
+      - label: "Email"
+        icon: "fas fa-fw fa-envelope-square"
+        url: "mailto:i@xzc-meina.top"
+      - label: "Website"
+        icon: "fas fa-fw fa-link"
+        url: "https://www.xzc-meina.top"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/MoriMeina"
 
 # Site Footer
 footer:
