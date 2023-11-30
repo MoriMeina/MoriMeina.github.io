@@ -104,21 +104,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meina"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cisco R&S CCIE/CISSP/RHCE"
-  location         : "Tokyo"
-  email            : "i@xzc-meina.top"
+  name: "Meina"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Cisco R&S CCIE/CISSP/RHCE"
+  location: "Tokyo"
+  email: "i@xzc-meina.top"
   links:
-      - label: "Email"
-        icon: "fas fa-fw fa-envelope-square"
-        url: "mailto:i@xzc-meina.top"
-      - label: "Website"
-        icon: "fas fa-fw fa-link"
-        url: "https://www.xzc-meina.top"
-      - label: "GitHub"
-        icon: "fab fa-fw fa-github"
-        url: "https://github.com/MoriMeina"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:i@xzc-meina.top"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.xzc-meina.top"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MoriMeina"
 
 # Site Footer
 footer:
