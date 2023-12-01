@@ -107,7 +107,7 @@ author:
   name             : "Meina"
   avatar           : "/assets/img/icon/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cisco R&S CCIE/CISSP/RHCE"
-  location         : "Nanjing"
+  location         : "Tokyo"
   email            :
   links:
     - label: "Email"
