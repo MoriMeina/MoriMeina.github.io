@@ -15,7 +15,7 @@ function getCDNinfo() {
                     for (var i = 0; i < areas.length; i++) {
                         if (areas[i].indexOf(area) !== -1) {
                             document.getElementById("cdn-info-content").innerHTML = areas[i];
-                            document.getElementById("cdn-info").style.display = "";
+                            docgcfument.getElementById("cdn-info").style.display = "";
                             return areas[i];
                         }
                     }
