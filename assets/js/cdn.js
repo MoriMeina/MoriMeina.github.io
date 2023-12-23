@@ -1,4 +1,3 @@
-//get cf cdn info
 function getCDNinfo() {
     try {
         var xhr = new XMLHttpRequest();
@@ -15,7 +14,7 @@ function getCDNinfo() {
                     for (var i = 0; i < areas.length; i++) {
                         if (areas[i].indexOf(area) !== -1) {
                             document.getElementById("cdn-info-content").innerHTML = areas[i];
-                            docgcfument.getElementById("cdn-info").style.display = "";
+                            document.getElementById("cdn-info").style.display = "";
                             return areas[i];
                         }
                     }
